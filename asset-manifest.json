@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/react-filtering-failed-students/static/js/main.74fe88c4.chunk.js",
+    "main.js.map": "/react-filtering-failed-students/static/js/main.74fe88c4.chunk.js.map",
+    "runtime~main.js": "/react-filtering-failed-students/static/js/runtime~main.1b993c29.js",
+    "runtime~main.js.map": "/react-filtering-failed-students/static/js/runtime~main.1b993c29.js.map",
+    "static/js/2.d8c4d936.chunk.js": "/react-filtering-failed-students/static/js/2.d8c4d936.chunk.js",
+    "static/js/2.d8c4d936.chunk.js.map": "/react-filtering-failed-students/static/js/2.d8c4d936.chunk.js.map",
+    "index.html": "/react-filtering-failed-students/index.html",
+    "precache-manifest.f464c3cc68fe68db088592be20e186fa.js": "/react-filtering-failed-students/precache-manifest.f464c3cc68fe68db088592be20e186fa.js",
+    "service-worker.js": "/react-filtering-failed-students/service-worker.js"
+  }
+}
